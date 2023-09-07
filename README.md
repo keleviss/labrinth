@@ -38,3 +38,8 @@ To get started with Labrinth, follow these steps:
    ```
 
    Ensure that the "pdcurses.dll" file is in the same directory as "LABRINTH.exe" to run the game successfully.
+
+## How to Play
+
+1. Objective:
+   
