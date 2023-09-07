@@ -15,6 +15,7 @@ Before you start contributing, please take a moment to read this guide. It will 
 - [Community Guidelines](#community-guidelines)
 - [License](#license)
 
+
 ## Getting Started
 
 1. **Fork the Repository:** Click the "Fork" button at the top right of this repository to create a copy of the project in your GitHub account.
@@ -49,6 +50,7 @@ Before you start contributing, please take a moment to read this guide. It will 
 
 9. **Merge:** Once your pull request is approved, it will be merged into the main branch.
 
+
 ## Types of Contributions
 
 You can contribute to Labrinth in various ways, including but not limited to:
@@ -58,6 +60,7 @@ You can contribute to Labrinth in various ways, including but not limited to:
 - Enhancing documentation.
 - Reviewing code and pull requests.
 - Providing feedback and suggestions.
+
 
 ## Contributing Process
 
@@ -69,6 +72,7 @@ You can contribute to Labrinth in various ways, including but not limited to:
 
 4. Make sure your contributions do not introduce new bugs or break existing functionality.
 
+
 ## Code Style Guidelines
 
 To maintain code consistency, please follow these guidelines when contributing:
@@ -78,6 +82,7 @@ To maintain code consistency, please follow these guidelines when contributing:
 - Follow the existing code formatting conventions.
 - Use meaningful commit messages that describe your changes concisely.
 
+
 ## Reporting Bugs
 
 If you encounter a bug or issue while using Labrinth, please help us by reporting it. To report a bug:
@@ -85,3 +90,27 @@ If you encounter a bug or issue while using Labrinth, please help us by reportin
 1. Check the [existing issues](https://github.com/keleviss/labrinth/issues) to ensure it hasn't already been reported.
 
 2. If it's a new issue, create a detailed bug report, including information about how to reproduce the problem, your system environment, and any relevant error messages.
+
+
+## Feature Requests
+
+If you have ideas for new features or improvements to Labrinth, please feel free to open an issue to discuss your ideas with the community. Describe your feature request and the problem it solves.
+
+
+## Community Guidelines
+
+We strive to create an open, inclusive, and friendly community around Labrinth. Please adhere to these guidelines:
+
+- Be respectful and considerate of other contributors.
+- Use welcoming and inclusive language.
+- Refrain from spam, harassment, or trolling behavior.
+- Focus on constructive criticism and collaboration.
+
+
+## License
+
+By contributing to Labrinth, you agree that your contributions will be licensed under the [Apache License](https://github.com/keleviss/labrinth/blob/main/LICENSE). You retain the copyright to your contributions.
+
+Thank you for contributing to Labrinth and helping make it a better game for everyone!
+
+Happy coding!
