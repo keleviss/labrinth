@@ -85,7 +85,7 @@ Contributions are welcome! If you want to contribute to this project, please fol
 
 ## License
 
-This project is licensed under [MIT License](#License).
+This project is licensed under [MIT License](#LICENSE).
 
 * * *
 
