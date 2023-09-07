@@ -76,8 +76,13 @@ The repository is organized as follows:
 ## Screenshots
 
 Gameplay Screenshot 1
+![Game Screenshot 1](screenshots/game_difficulties.png)
 
 Gameplay Screenshot 2
+![Game Screenshot 2](screenshots/playing.png)
+
+Gameplay Screenshot 3
+![Game Screenshot 3](screenshots/game_over.png)
 
 ## Contributing
 
