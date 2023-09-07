@@ -24,3 +24,16 @@ To get started with Labrinth, follow these steps:
    ```bash
    git clone https://github.com/your-username/labrinth.git
 
+2. **Run the Game**
+
+   Navigate to the "Release" directory:
+
+   ```bash
+   cd labrinth/Release
+   ```
+
+   Execute the game:
+   ```bash
+   ./LABRINTH.exe
+
+   Ensure that the "pdcurses.dll" file is in the same directory as "LABRINTH.exe" to run the game successfully.
