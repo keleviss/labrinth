@@ -1,6 +1,6 @@
 # Labrinth - A Terminal-Based Maze Game
 
-![Game Screenshot](screenshots/gameplay.png)
+![Game Screenshot](screenshots/playing.png)
 
 ## Overview
 
