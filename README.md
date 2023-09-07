@@ -35,5 +35,6 @@ To get started with Labrinth, follow these steps:
    Execute the game:
    ```bash
    ./LABRINTH.exe
+   ```
 
    Ensure that the "pdcurses.dll" file is in the same directory as "LABRINTH.exe" to run the game successfully.
