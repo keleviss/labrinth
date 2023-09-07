@@ -27,9 +27,9 @@ Before you start contributing, please take a moment to read this guide. It will 
 
 3. **Create a Branch:** Before you start working on a feature or bug fix, create a new branch from the 'main' branch.
 
-  ```bash
-  git checkout -b feature-name
-  ```
+   ```bash
+   git checkout -b feature-name
+   ```
 
 4. **Make Changes:** Make your changes, write code, fix bugs, and add features.
 
