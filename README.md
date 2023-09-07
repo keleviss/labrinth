@@ -87,5 +87,6 @@ Contributions are welcome! If you want to contribute to this project, please fol
 
 This project is licensed under [MIT License](#License).
 
-- - -
+* * *
 
+Enjoy the Labrinth maze adventure, and may your score be legendary!
