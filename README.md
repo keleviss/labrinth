@@ -86,7 +86,7 @@ Gameplay Screenshot 3
 
 ## Contributing
 
-Contributions are welcome! If you want to contribute to this project, please follow the guidelines outlined in [CONTRIBUTING.md](#CONTRIBUTING.md).
+Contributions are welcome! If you want to contribute to this project, please follow the guidelines outlined in [CONTRIBUTING.md](https://github.com/keleviss/labrinth/blob/main/CONTRIBUTING.md).
 
 ## License
 
