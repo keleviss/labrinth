@@ -54,7 +54,7 @@ To get started with Labrinth, follow these steps:
 3. Difficulties
 
    The game has 3 level difficulties, Easy, Medium and Hard.
-   Don't be afraid to challenge your self.
+   Don't be afraid to challenge yourself.
 
 ## Directory Structure
 
@@ -72,3 +72,20 @@ The repository is organized as follows:
   - All the C++ (.cpp) and header (.h) files used to create the game.
   - map.txt: Maze configuration for development/testing.
   - scores.bin: High scores file for development/testing.
+
+## Screenshots
+
+Gameplay Screenshot 1
+
+Gameplay Screenshot 2
+
+## Contributing
+
+Contributions are welcome! If you want to contribute to this project, please follow the guidelines outlined in [CONTRIBUTING.md](#CONTRIBUTING.md).
+
+## License
+
+This project is licensed under [MIT License](#License).
+
+- - -
+
