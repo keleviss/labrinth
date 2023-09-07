@@ -42,4 +42,33 @@ To get started with Labrinth, follow these steps:
 ## How to Play
 
 1. Objective:
-   
+
+   Your goal is to navigate throught the challenging maze, gather all the Diamonds '♦', reveal the Tresure '$', and reach it in order to win the game.
+
+   But, be careful because there are wild Gnomes '¤' lurking and big Traals '£'. Don't let them catch you because they will eat you.
+
+2. Controls:
+
+   Use the arrow keys to move your character '@'.
+
+3. Difficulties
+
+   The game has 3 level difficulties, Easy, Medium and Hard.
+   Don't be afraid to challenge your self.
+
+## Directory Structure
+
+The repository is organized as follows:
+
+- Release: Contains the pre-built game executable and required files.
+
+   - LABRINTH.exe: The game executable.
+   - pdcurses.dll: A required dynamic link library.
+   - gamefiles: Additional game files.
+      - map.txt: Maze configuration in text format.
+      - scores.bin: Binary file to store high scores.
+
+- src: Contains the source code for the Labrinth game.
+  - All the C++ (.cpp) and header (.h) files used to create the game.
+  - map.txt: Maze configuration for development/testing.
+  - scores.bin: High scores file for development/testing.
