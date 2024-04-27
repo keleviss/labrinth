@@ -77,7 +77,7 @@ The repository is organized as follows:
 
 Main Menu
 _ _ _
-![Game Sreenshot 1] (screenshots/main_menu.png)
+![Game Sreenshot 1](screenshots/main_menu.png)
 
 Difficulty menu
 _ _ _
