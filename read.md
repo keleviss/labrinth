@@ -1,5 +1,7 @@
 # LABRINTH - A Terminal-Based Maze Game
 
+![Game Screenshot](screenshots/playing.png)
+
 Welcome to the repository for **LABRINTH**, a maze game developed in C++ using the PDCurses library. Inspired by the classic Pacman, this game offers a unique and challenging experience with multiple difficulty levels and a customizable map. It is designed specifically for Windows Terminal and is not supported on other operating systems.
 
 ## Table of Contents
@@ -13,13 +15,31 @@ Welcome to the repository for **LABRINTH**, a maze game developed in C++ using t
 - [Custom Maps](#custom-maps)
 - [Potential Improvements](#potential-improvements)
 - [Project Structure](#project-structure)
+- [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
 
 ## Game Overview
 
-**LABRINTH** is a terminal-based maze game where you navigate through a labyrinth filled with enemies that chase you based on simple movement logic. The game offers three difficulty levels, a scoreboard system, and the ability to customize the maze map. Though inspired by Pacman, the gameplay is distinct, providing a fresh take on the maze genre.
+**LABRINTH** is a terminal-based maze game where you navigate through a labyrinth filled with enemies that chase you based on simple movement logic. 
+
+###How to Play
+
+1. Objective:
+
+   Your goal is to navigate throught the challenging maze, gather all the Diamonds '♦', reveal the Tresure '$', and reach it in order to win the game.
+   But, be careful because there are wild Gnomes '¤' lurking and big Traals '£'. Don't let them catch you because they will eat you.
+
+2. Controls:
+
+   Use the arrow keys to move your character '@'.
+
+3. Difficulties
+
+   The game has 3 level difficulties, Easy, Medium and Hard.
+
+The game offers three difficulty levels, a scoreboard system, and the ability to customize the maze map. Though inspired by Pacman, the gameplay is distinct, providing a fresh take on the maze genre.
 
 ## Features
 
@@ -95,6 +115,24 @@ labrinth/
 ├── CONTRIBUTING.md            # Contributing guidelines
 └── LICENSE                    # License
 ```
+
+## Screenshots
+
+Main Menu
+_ _ _
+![Game Sreenshot 1](screenshots/main_menu.png)
+
+Difficulty menu
+_ _ _
+![Game Screenshot 2](screenshots/game_difficulties.png)
+
+Gameplay Screenshot 2
+_ _ _
+![Game Screenshot 3](screenshots/playing.png)
+
+Gameplay Screenshot 3
+_ _ _
+![Game Screenshot 4](screenshots/game_over.png)
 
 ## Contributing
 
