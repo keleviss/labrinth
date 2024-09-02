@@ -22,9 +22,7 @@ Welcome to the repository for **LABRINTH**, a maze game developed in C++ using t
 
 ## Game Overview
 
-**LABRINTH** is a terminal-based maze game where you navigate through a labyrinth filled with enemies that chase you based on simple movement logic. 
-
-###How to Play
+**LABRINTH** is a terminal-based maze game where you navigate through a labyrinth filled with enemies that chase you based on simple movement logic. The game offers three difficulty levels, a scoreboard system, and the ability to customize the maze map. Though inspired by Pacman, the gameplay is distinct, providing a fresh take on the maze genre.
 
 1. Objective:
 
@@ -38,8 +36,6 @@ Welcome to the repository for **LABRINTH**, a maze game developed in C++ using t
 3. Difficulties
 
    The game has 3 level difficulties, Easy, Medium and Hard.
-
-The game offers three difficulty levels, a scoreboard system, and the ability to customize the maze map. Though inspired by Pacman, the gameplay is distinct, providing a fresh take on the maze genre.
 
 ## Features
 
@@ -77,7 +73,7 @@ To install and play **LABRINTH** on your Windows system, follow these steps:
 
 ## Usage
 
-- **Starting the Game**: Launch the game from Windows Terminal by executing the compiled `.exe` file.
+- **Starting the Game**: Launch the game by executing the compiled `.exe` file as an *Administrator*.
 - **Selecting Game Mode**: Choose from Easy, Medium, or Hard modes.
 - **Scoreboard**: Your scores are saved in the `scoreboard.bin` file located in the `gamefiles` folder.
 - **Custom Maps**: Edit the `map.txt` file in the `gamefiles` folder to create and play with custom maps.
