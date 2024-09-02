@@ -4,7 +4,7 @@
 
 ## Overview
 
-Welcome to Labrinth, a thrilling terminal-based maze game written in C++! Using the pdcurses library the game is running on terminal! Embark on a challenging journey through intricate mazes, solve puzzles, and aim for the highest scores. With the "LABRINTH.exe" executable, you can dive right into the action.
+Welcome to Labrinth, a thrilling terminal-based maze game written in C++! Using the pdcurses library the game is running on a Windows terminal! Embark on a challenging journey through intricate mazes, solve puzzles, and aim for the highest scores. With the "LABRINTH.exe" executable, you can dive right into the action.
 
 ## Table of Contents
 
