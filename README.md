@@ -1,4 +1,4 @@
-# Labrinth - A Terminal-Based Maze Game
+# Labrinth - A Terminal-Based Maze Game (Windows)
 
 ![Game Screenshot](screenshots/playing.png)
 
